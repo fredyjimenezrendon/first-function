@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "build": "webpack --config webpack.dev.js"
+    "test": "jest"
   },
   "author": "frjimenez@tmg.io",
   "license": "ISC",
